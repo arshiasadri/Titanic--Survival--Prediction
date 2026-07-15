@@ -6,10 +6,6 @@ A Machine Learning project that predicts whether a Titanic passenger would survi
 
 ---
 
-## Screenshot
-
-![Application](images/demo.png)
-
 ## Features
 
 - Data cleaning
