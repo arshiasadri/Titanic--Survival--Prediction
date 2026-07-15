@@ -56,7 +56,7 @@ titanic-survival-prediction/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/titanic-survival-prediction.git
+git clone https://github.com/arshiasadri/titanic-survival-prediction.git
 ```
 
 Go to the project folder:
